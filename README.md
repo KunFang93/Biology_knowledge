@@ -16,3 +16,6 @@ useful website to learn biology
 
 # Structural Biology
 [Secondary structure (protein)](https://www.youtube.com/watch?v=4x61Je8UWsE). 
+
+# Sequence 
+[ATAC-seq read length](https://www.biostars.org/p/418363/).
